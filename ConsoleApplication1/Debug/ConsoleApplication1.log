@@ -1,0 +1,3 @@
+﻿ConsoleApplication1.obj : error LNK2019: símbolo externo __imp__sodium_init sin resolver al que se hace referencia en la función _main
+C:\Users\proye\Downloads\libsodium\libsodium.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\proye\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 externos sin resolver
